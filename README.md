@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Jose Díaz</h1>
-<h3 align="center">I am a fronted developer</h3>
+<h1 align="left">Hi I'm Jose Díaz</h1>
+<h3 align="left">I am a fronted developer</h3>
 
 - All of my projects are available at [https://m-projects.netlify.app/](https://m-projects.netlify.app/)
 
