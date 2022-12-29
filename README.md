@@ -1,8 +1,5 @@
-[![MasterHead](https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1)
 <h1 align="center">Hi I'm Jose Díaz</h1>
 <h3 align="center">I am a fronted developer</h3>
-
-- 🔭 I’m currently working on [Knowty](https://github.com/JoseDiaz07/knowty)
 
 - All of my projects are available at [https://m-projects.netlify.app/](https://m-projects.netlify.app/)
 
