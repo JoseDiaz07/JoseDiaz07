@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Knowty](https://github.com/JoseDiaz07/knowty)
 
-- All of my projects are available at [https://m-projects.netlify.app/](https://m-projects.netlify.app/)
+- All of my projects are available at: [https://m-projects.netlify.app/](https://m-projects.netlify.app/)
 
 - How to reach me **diazmarinjoseelias2007@gmail.com**
 
