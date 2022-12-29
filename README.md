@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
+[![MasterHead](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)]()
 <h1 align="center">Hi I'm Jose Díaz</h1>
 <h3 align="center">I am a fronted developer</h3>
 
