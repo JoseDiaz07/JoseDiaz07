@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jose
-A frontent developer
+Frontent developer
 
 ````js
 const JoseDiaz = {
