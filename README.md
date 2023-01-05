@@ -3,7 +3,6 @@ A frontent developer
 
 ````js
 const JoseDiaz = {
-  pronouns: "He" | "Him",
   code: ["Javascript", "HTML", "CSS"],
   tools: ["React", "Node", "Tailwind","Bootstrap"]
 
