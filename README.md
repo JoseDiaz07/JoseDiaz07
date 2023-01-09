@@ -1,11 +1,21 @@
 # Hi 👋, I'm Jose
-Frontent developer
+Front-end developer
 
 ````js
-const JoseDiaz = {
-  code: ["Javascript", "HTML", "CSS"],
-  tools: ["React", "Node", "Tailwind","Bootstrap"]
-
+const aboutMe = {
+  pronouns: "he" | "him",
+  code: ["Javascript", "Node", "HTML", "CSS"],
+  technologies: {
+    frontend: {
+      Javascript: "React",
+      CSS: ["Bootstrap", "Tailwind"]
+    },
+    backEnd: {
+      Node: "Express"
+    }
+  },
+  currentOccupation: "Open for job opportunities"
+}
 ````
 My portfolio
 - https://josediazweb.netlify.app/
