@@ -18,5 +18,5 @@ const aboutMe = {
 }
 ````
 My portfolio
-- https://josediazweb.netlify.app/
+- https://jeliasdiaz.netlify.app/
 
