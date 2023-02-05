@@ -17,6 +17,6 @@ const aboutMe = {
   currentOccupation: "Open for job opportunities"
 }
 ````
-My portfolio
-- https://jeliasdiaz.netlify.app/
+My [portfolio](https://jeliasdiaz.netlify.app/)
+
 
