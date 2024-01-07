@@ -3,8 +3,8 @@ Front-end developer
 
 ````js
 const aboutMe = {
-  pronouns: "he" | "him",
-  code: ["Javascript", "Node", "HTML", "CSS"],
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "Node", "HTML", "CSS"],
   technologies: {
     frontend: {
       Javascript: "React, Next JS",
